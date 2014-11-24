@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Random-Chair-Minutes-er</string>
+    <string name="chairdots">Chair...</string>
+    <string name="minutetakerdots">Minute Taker...</string>
+    <string name="go">go</string>
+</resources>
