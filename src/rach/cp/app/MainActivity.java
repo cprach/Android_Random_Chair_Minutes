@@ -16,7 +16,14 @@ public class MainActivity extends Activity
     }
     
     public void doGet(View v) {
-        Logic l = new Logic();
+//        Logic l = new Logic();
+//        TextView txtchairname = (TextView)findViewById(R.id.txtchairname);
+//        TextView txtminutetakername = (TextView)findViewById(R.id.txtminutetakername);
+//        
+//        txtchairname.setText("Chair: " + l.getChair());
+//        txtminutetakername.setText("Minute taker: " + l.getMinuteTaker());
+    	
+    	Logic2 l = new Logic2();
         TextView txtchairname = (TextView)findViewById(R.id.txtchairname);
         TextView txtminutetakername = (TextView)findViewById(R.id.txtminutetakername);
         
